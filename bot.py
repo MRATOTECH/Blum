@@ -474,11 +474,11 @@ async def main():
 {magenta} ┃┃┃┃┃┃┃┃╋┃┃╭╮┃╋╭╯╱┃┃╋┃╱╱┃╰╮╰━╮┃╋┃┃┃┃╋╭╮┃╭━╮┃╭━━╯┃╭╮╭╯┃┃┃┃┃┃
 {magenta}┃┃┃┃┃┃┃╰━╯┃╰╯┃╭╯╱╱┃╰╯╰┳╮┃╭╯╭━╯┃╋┃┃┃╰━╯┃┃╰━╯┃┃╱╱╰╯┃╰━╮╰╯┃╰╯╰╮
 {magenta}╰╯╰╯╰╯╰━━━┻━━┻╯╱╱╱╰━━━┻╯╰╯╱╰━━━╯╱╰╯╰━━━┻━━━╯╰╯╱╱╱╰━━━╯╱╱╰━━━╯
-        {putih}Welcome to MRATOTECH WORLD!
-    {putih}Auto Claim for {hijau}Tomarket
-    {hijau}Group : {putih}https://t.me/QDforum
-    {putih}Channel : {hijau}https://t.me/AIRDROPALERTTRENDS
-    {hijau}Note : {putih}For personal & Educational use only!
+        {green}Welcome to MRATOTECH WORLD!
+    {green}Auto Claim for {white}Blum
+    {white}Group : {green}https://t.me/QDforum
+    {green}Channel : {white}https://t.me/AIRDROPALERTTRENDS
+    {white}Note : {green}For personal & Educational use only!
           """
     arg = argparse.ArgumentParser()
     arg.add_argument(
